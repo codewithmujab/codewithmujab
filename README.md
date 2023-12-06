@@ -8,7 +8,7 @@ I'm a software engineer & Consultant at Kelasin ID in Jakarta, Special Region of
 <li>⚡ Fun fact: sharing is magic 🐰</li>
 <li>Chat me on Telegram</li>
 <li>WhatsApp me on <a href="https://wa.me/6285691366061" trget="_blank">Whatsapp</a> </li>
-<li>Email me at G-mail</li>
+<li>Email me at <a href="mailto:saefulmujab008@gmail.com" trget="_blank">G-mail</a></li>
 <li>Youtu.be : https://www.youtube.com/@kelasin</li>
 <li>Instagram : https://instagram.com/kelasinid</li>
 </ul>
