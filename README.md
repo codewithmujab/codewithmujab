@@ -7,7 +7,7 @@ I'm a software engineer & Consultant at Kelasin ID in Jakarta, Special Region of
 <li>💬 Ask me about Flutter, laravel and Dart, php.</li>
 <li>⚡ Fun fact: sharing is magic 🐰</li>
 <li>Chat me on Telegram</li>
-<li>WhatsApp me on Whatsapp</li>
+<li>WhatsApp me on <a href="https://wa.me/6285691366061" trget="_blank">Whatsapp</a> </li>
 <li>Email me at G-mail</li>
 <li>Youtu.be : https://www.youtube.com/@kelasin</li>
 <li>Instagram : https://instagram.com/kelasinid</li>
